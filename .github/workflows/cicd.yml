@@ -1,4 +1,4 @@
-name: skill3
+name: Skill3
 on:
   push:
     branches: [main]
